@@ -2,39 +2,6 @@
 
 ----
 
-
-Hello there! we can't wait to see to you on board 🚀
-
-We will kindly ask you to take a look at this super simple recruitment task that will give us a lot of information about your skills with little effort on side. 
-
-
-### 📋   Requirements
-
-- PHP server (>= 8.0) 
-  Really, that's all you need 🙂
-
-
-### ⚙️File structure
-
-```
-│   index.php
-├───assets
-│   ├───css
-│   │       styles.css
-│   └───js
-│           script.js
-├───dataset
-│       users.json
-└───partials
-        main.php
-```
-
-- Your entry file for PHP is `main.php` - feel free to organize other PHP files just the way you like it
-- Your datasource is `users.json` file - all changes (see points 2 and 3) have to be saved
-- For scripts and styles, use the `styles.scss` and `script.js` files - those are not necessary, but we will highly appreciate it 
-
-
-
 ### 💻   Your task 
 
 The recruitment task consists of 3 steps
@@ -65,22 +32,3 @@ The recruitment task consists of 3 steps
 
 **Name input** | **Username input** | **Email input** | **Address input** | **Phone Input**	| **Company Input** | **SUBMIT BUTTON**
 
----
-
-
-
-
-
-
-⚠️You have a free reign in terms of the architecture - creating controllers and models will be a huge plus
-
-⚠️We don't insist on fancy styling for the table, but anything else than the raw layout will be appreciated
-
-⚠️We will check aspects like code readability, scalability and error handling
-
-⏳ Don't hurry up! Take as much time as you need
-
-
-⚠️The easiest way to start is to fork this repository, but feel free to use any other method
-
-Good luck ! 🔥
