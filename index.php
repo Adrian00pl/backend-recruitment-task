@@ -6,13 +6,10 @@
     <title>Backend/Full-stack recruitment task</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-
 <body>
-
 <main>
     <?php require_once './partials/main.php'; ?>
 </main>
-
 <script src="assets/js/script.js"></script>
 </body>
 </html>
