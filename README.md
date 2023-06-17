@@ -13,7 +13,7 @@ Prosty system zarządzania użytkownikami, który umożliwia dodawanie i usuwani
 
 ## Instalacja
 
-- Sklonuj repozytorium do wybranego katalogu na swoim serwerze:
+- Sklonuj repozytorium do wybranego katalogu na swoim komputerze:
 
    ```bash
    git clone https://github.com/Adrian00pl/backend-recruitment-task.git
