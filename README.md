@@ -16,7 +16,7 @@ Prosty system zarządzania użytkownikami, który umożliwia dodawanie i usuwani
 - Sklonuj repozytorium do wybranego katalogu na swoim serwerze:
 
    ```bash
-   git clone https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/user-management-system.git
+   git clone https://github.com/Adrian00pl/backend-recruitment-task.git
 
  ## Struktura projektu
 
